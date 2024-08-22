@@ -84,7 +84,7 @@ function Home() {
                   </p>
                 </dt>
                 <dd className="text-base text-gray-600">
-                  When you choose [Firm Name], you're not just enrolling in a
+                  When you choose Wishlearners, you're not just enrolling in a
                   course; you're joining a community dedicated to your success.
                   From enrollment to completion, we're here to support you every
                   step of the way.
